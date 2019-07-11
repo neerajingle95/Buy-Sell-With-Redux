@@ -1,0 +1,10 @@
+/* Styles */
+#app {
+  font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  min-width: 550px;
+  max-width: 850px;
+  margin: 10px auto;
+  min-height: 420px;
+  background-color: aliceblue;
+}
